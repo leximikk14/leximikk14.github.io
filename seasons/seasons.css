@@ -1,0 +1,130 @@
+body {
+    font-family: sans-serif;
+    background-color: papayawhip;
+    margin: 0px;
+    padding: 0px;
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: auto;
+}
+
+#wrap {
+    width: 90%;
+    margin: 0 auto;
+    border: 9px solid white;
+    padding: 10px;
+}
+
+header img {
+    width: 80%;
+}
+
+header {
+    background-color: papayawhip;
+    padding: 10px 0px;
+    text-align: center;
+    background-image: black;
+    margin: 0px 10px;
+}
+
+nav {
+    background-color: peachpuff;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    font-family: fantasy;
+    margin: 10px 60px;
+    border: 4px white solid;
+}
+
+nav li {
+    display: inline;
+    padding: 20px;
+}
+
+nav ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav a {
+    color: black;
+    text-decoration: underline;
+    padding: 10px 30px;
+}
+
+nav a:hover {
+    color: antiquewhite;
+    background-color: darkcyan;
+}
+
+section {
+    padding: 10px;
+    background-color: none;
+    overflow: auto;
+    margin: 10px;
+    
+}
+
+h1 {
+    color: black;
+    padding: 5px;
+    margin: 0px;
+    text-align: center;
+    font-size: 300%;
+    font-family: fantasy;
+}
+
+p {
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+h2 {
+    color: deeppink;
+    font-family: fantasy;
+    font-size: 30px;
+    padding: 0px;
+    margin: 10px;
+} 
+
+h3 {
+    color: green;
+    font-family: fantasy;
+    font-size: 30px;
+    padding: 0px;
+    margin: 10px;
+} 
+
+h4 {
+    color: orangered;
+    font-family: fantasy;
+    font-size: 30px;
+    padding: 0px;
+    margin: 10px;
+} 
+
+h5 {
+    color: dodgerblue;
+    font-family: fantasy;
+    font-size: 30px;
+    padding: 0px;
+    margin: 10px;
+} 
+
+.bgpic {
+   float: right;
+}
+
+
+footer {
+    background-color: peachpuff;
+    border: white 2px solid;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+    font-family: fantasy;
+}
