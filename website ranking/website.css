@@ -1,0 +1,20 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+}
+
+header, nav, footer {
+
+    font-size: 150%;
+    margin: 20px;
+}
+
+section {
+    height: 250px;
+    margin: 20px;
+}
